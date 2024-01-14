@@ -1,2 +1,2 @@
 # personal-blog
-Repo for m Personal Blog
+Repo for My Personal Blog
