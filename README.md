@@ -1,2 +1,2 @@
-# personal-blog
-Repo for My Personal Blog
+# Astro Blog Tutorial
+Finish Astro Tutorial with minimal astro template plus preact
